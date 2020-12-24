@@ -5,12 +5,12 @@ using namespace std;
 
 class Class {
   public:
-    Class(string pSubj, int pNum, string pTitle, string pDesc, vector<string> pReqs, int pCredits);
+    Class(string pSubj, int pNum, string pTitle, string pDesc, vector<string> pReqs, string pCredits);
     string subj;
     int num;
     string title;
     string desc;
     vector<string> reqs;
-    int credits;
+    string credits;
 };
 #endif
