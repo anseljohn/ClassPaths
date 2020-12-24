@@ -1,0 +1,481 @@
+CSCI 1103: Introduction to Computer Programming in Java
+Fundamental programming concepts/software development using Java language. Problem solving skills. Algorithm development techniques. Use of abstractions/modularity. Data structures/abstract data types. Substantial programming projects. Weekly lab.
+
+Units: 4.00
+
+
+CSCI 1113: Introduction to C/C++ Programming for Scientists and Engineers
+Programming for scientists/engineers. C/C++ programming constructs, object-oriented programming, software development, fundamental numerical techniques. Exercises/examples from various scientific fields.
+
+prereq: Math 1271 or Math 1371 or Math 1571H or instr consent
+
+Units: 4.00
+
+
+CSCI 1115: Exploring Computer Science Exercises in C++
+This course is designed as a complement to CSCI 1113 for students who elect to devote additional time to get a broader exposure to concepts and practice of computer science.
+
+Students will work in small groups to sharpen their problem solving and computational skills, and be exposed to a variety of applications of computing.
+
+Units: 1.00
+
+
+CSCI 1133: Introduction to Computing and Programming Concepts
+Fundamental programming concepts using Python language. Problem solving skills, recursion, object-oriented programming. Algorithm development techniques. Use of abstractions/modularity. Data structures/abstract data types. Develop programs to solve real-world problems.
+
+prereq: concurrent registration is required (or allowed) in MATH 1271 or concurrent registration is required (or allowed) in MATH 1371 or concurrent registration is required (or allowed) in MATH 1571H or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 1133H
+Units: 4.00
+
+
+CSCI 1133H: Honors Introduction to Computing and Programming Concepts
+Programming concepts using Python language. Real world problem solving, recursion, object-oriented programming. Algorithm development techniques. Abstractions/modularity. Optional honors topics: programming robots, programming paradigms, artificial intelligence.
+
+prereq: [concurrent registration is required (or allowed) in MATH 1271 or concurrent registration is required (or allowed) in MATH 1371 or concurrent registration is required (or allowed) in MATH 1571H], CSci majors, pre-majors in CSE/CLA, honors student
+
+Credit will not be granted if credit has been received for: CSCI 1133
+Honors
+Units: 4.00
+
+
+CSCI 1135: Exploring Computer Science Exercises in Python
+This course is designed as a complement to CSCI 1133 for students who elect to devote additional time to get a broader exposure to concepts and practice of computer science.
+
+Students will work in small groups to sharpen their problem solving and computational skills, and be exposed to a variety of applications of computing.
+
+Units: 1.00
+
+
+CSCI 1913: Introduction to Algorithms, Data Structures, and Program Development
+Advanced object oriented programming to implement abstract data types(stacks, queues, linked lists, hash tables, binary trees) using Java language. Searching/sorting algorithms. Basic algorithmic analysis. Scripting languages using Python language. Substantial programming projects. Weekly lab.
+
+prereq: (EE major and EE 1301) or (CmpE major and EE 1301) or 1103 or 1113 or instr consent
+
+Units: 4.00
+
+
+CSCI 1933: Introduction to Algorithms and Data Structures
+Advanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab.
+
+prereq: 1133 or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 1902CSCI 1933H
+Units: 4.00
+
+
+CSCI 2011: Discrete Structures of Computer Science
+Foundations of discrete mathematics. Sets, sequences, functions, big-O, propositional/predicate logic, proof methods, counting methods, recursion/recurrences, relations, trees/graph fundamentals.
+
+prereq: MATH 1271 or MATH 1371 or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 2011H
+Units: 4.00
+
+
+CSCI 2021: Machine Architecture and Organization
+Introduction to hardware/software components of computer system. Data representation, boolean algebra, machine-level programs, instruction set architecture, processor organization, memory hierarchy, virtual memory, compiling, linking. Programming in C.
+
+prereq: 1913 or 1933 or instr consent
+
+Units: 4.00
+
+
+CSCI 2033: Elementary Computational Linear Algebra
+Matrices/linear transformations, basic theory. Linear vector spaces. Inner product spaces. Systems of linear equations, Eigenvalues, singular values. Algorithms/computational matrix methods using MATLAB. Use of matrix methods to solve variety of computer science problems.
+
+prereq: [MATH 1271 or MATH 1371], [1113 or 1133 or knowledge of programming concepts]
+
+Units: 4.00
+
+
+CSCI 2041: Advanced Programming Principles
+Principles/techniques for creating correct, robust, modular programs. Computing with symbolic data, recursion/induction, functional programming, impact of evaluation strategies, parallelism. Organizing data/computations around types. Search-based programming, concurrency, modularity.
+
+prereq: [1913 or 1933], 2011
+
+Units: 4.00
+
+
+CSCI 2081: Introduction to Software Development
+Techniques for design and development of software using Java. Introduction to object-oriented programming and design, integrated development environments, inheritance and polymorphism. Software design principles, testing and debugging, and use of project management tools. Implementation of a software project using data structures, files, and I/O. This course is intended for non-CS Majors.
+
+Prerequisite: CSCI 1133, CSCI 1103, or CSCI 1113
+
+Units: 4.00
+
+
+CSCI 3003: Introduction to Computing in Biology
+This course builds computational skills needed to carry out basic data analysis tasks common in modern biology. Students will learn computing concepts (algorithm development, data structures, complexity analysis) along with practical programming skills in Python and R. No previous programming knowledge assumed.
+
+Prereq: introductory biology course.
+
+Credit will not be granted if credit has been received for: CSCI 5465
+Units: 3.00
+
+
+CSCI 3081W: Program Design and Development
+Principles of programming design/analysis. Concepts in software development. Uses a programming project to illustrate key ideas in program design/development, data structures, debugging, files, I/O, testing, and coding standards.
+
+prereq: [2021, 2041]; CS upper div, CS grad, or dept. permission
+
+Credit will not be granted if credit has been received for: CSCI 4081WCSCI 4089
+Writing Intensive
+Units: 4.00
+
+
+CSCI 3921W: Social, Legal, and Ethical Issues in Computing
+Impact of computers on society. Computer science perspective of ethical, legal, social, philosophical, political, and economic aspects of computing.
+
+prereq: At least soph or instr consent
+
+Civic Life and Ethics Writing Intensive
+Units: 3.00
+
+
+CSCI 3970: Industrial Student Co-op Assignment
+Industrial work assignment in a co-op program involving advanced computer technology. Reviewed by a faculty member. Grade based on final written report.
+
+prereq: CSci, in co-op program, instr consent
+
+Units: 2.00
+
+
+CSCI 4011: Formal Languages and Automata Theory
+Logical/mathematical foundations of computer science. Formal languages, their correspondence to machine models. Lexical analysis, string matching, parsing. Decidability, undecidability, limits of computability. Computational complexity.
+
+prereq: 2041 or instr consent
+
+Units: 4.00
+
+
+CSCI 4041: Algorithms and Data Structures
+Rigorous analysis of algorithms/implementation. Algorithm analysis, sorting algorithms, binary trees, heaps, priority queues, heapsort, balanced binary search trees, AVL trees, hash tables and hashing, graphs, graph traversal, single source shortest path, minimum cost spanning trees.
+
+prereq: [(1913 or 1933) and 2011] or instr consent; cannot be taken for grad CSci cr
+
+Credit will not be granted if credit has been received for: CSCI 4041H
+Units: 4.00
+
+
+CSCI 4061: Introduction to Operating Systems
+Processes/threads, process coordination, interprocess communication, asynchronous events, memory management/file systems. Systems programming projects using operating system interfaces and program development tools.
+
+prereq: 2021 or EE 2361; CS upper div, CS minor, CompE upper div., EE upper div., EE grad, ITI upper div., Univ. honors student, or dept. permission; no cr for grads in CSci.
+
+Credit will not be granted if credit has been received for: INET 4001
+Units: 4.00
+
+
+CSCI 4131: Internet Programming
+Issues in internet programming. Internet history, architecture/protocols, network programming, Web architecture. Client-server architectures and protocols. Client-side programming, server-side programming, dynamic HTML, Java programming, object-oriented architecture/design, distributed object computing, Web applications.
+
+prereq: 4061, 4211 recommended, cannot be taken for grad CSci cr
+
+Credit will not be granted if credit has been received for: CSCI 5131
+Units: 3.00
+
+
+CSCI 4203: Computer Architecture
+Introduction to computer architecture. Aspects of computer systems, such as pipelining, memory hierarchy, and input/output systems. Performance metrics. Examins each component of a complicated computer system.
+
+prereq: 2021 or instr consent
+
+Credit will not be granted if credit has been received for: EE 4363EE 5361
+Units: 4.00
+
+
+CSCI 4211: Introduction to Computer Networks
+Concepts, principles, protocols, and applications of computer networks. Layered network architectures, data link protocols, local area networks, routing, transport, network programming interfaces, networked applications. Examples from Ethernet, Token Ring, TCP/IP, HTTP, WWW.
+
+prereq: 4061 or instr consent; basic knowledge of [computer architecture, operating systems] recommended, cannot be taken for grad CSci cr
+
+Credit will not be granted if credit has been received for: CSCI 5211INET 4002
+Units: 3.00
+
+
+CSCI 4271W: Development of Secure Software Systems
+Overview of threat modeling and security assessment in the design and development of software systems. Techniques to identify, exploit, detect, mitigate and prevent software vulnerabilities at the design, coding, application, compiler, operating system, and networking layers. Methods for effectively communicating system designs and vulnerabilities.
+
+Prerequisites: 3081W
+
+Writing Intensive
+Units: 4.00
+
+
+CSCI 4511W: Introduction to Artificial Intelligence
+Problem solving, search, inference techniques. Knowledge representation. Planning. Machine learning. Robotics. Lisp programming language. Cannot be taken for grad CSci credit.
+
+prereq: 2041 or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 5511
+Writing Intensive
+Units: 4.00
+
+
+CSCI 4611: Programming Interactive Computer Graphics and Games
+Tools/techniques for programming games/interactive computer graphics. Event loops, rendering/animation, polygonal models, texturing, physical simulation. Modern graphics toolkits. History/future of computer games technology. Social impact of interactive computer graphics.
+
+prereq: 2021 or instr consent
+
+Units: 3.00
+
+
+CSCI 4707: Practice of Database Systems
+Concepts, conceptual data models, case studies, common data manipulation languages, logical data models, database design, facilities for database security/integrity, applications.
+
+prereq: 4041 or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 5707INET 4707
+Units: 3.00
+
+
+CSCI 4921: History of Computing
+Developments in last 150 years; evolution of hardware and software; growth of computer and semiconductor industries and their relation to other businesses; changing relationships resulting from new data-gathering and analysis techniques; automation; social and ethical issues.
+
+Credit will not be granted if credit has been received for: HSCI 4321
+Historical Perspectives Technology and Society
+Units: 3.00
+
+
+CSCI 4950: Senior Software Project
+Student teams develop a software system, distribute system to users, and extend/maintain it in response to their needs. Software engineering techniques. Software development, team participation, leadership.
+
+prereq: Upper div CSci, instr consent
+
+Units: 3.00
+
+
+CSCI 4970W: Advanced Project Laboratory
+Formulate and solve open-ended project: design, implement, interface, document, test. Team work strongly encouraged. Arranged with CSci faculty.
+
+prereq: Upper div CSci, 4061, instr consent; cannot be taken for grad cr
+
+Writing Intensive
+Units: 3.00
+
+
+CSCI 5103: Operating Systems
+Conceptual foundation of operating system designs and implementations. Relationships between operating system structures and machine architectures. UNIX implementation mechanisms as examples.
+
+prereq: 4061 or instr consent
+
+Units: 3.00
+
+
+CSCI 5106: Programming Languages
+Design and implementation of high-level languages. Course has two parts: (1) language design principles, concepts, constructs; (2) language paradigms, applications. Note: course does not teach how to program in specific languages.
+
+prereq: 4011 or instr consent
+
+Units: 3.00
+
+
+CSCI 5115: User Interface Design, Implementation and Evaluation
+Theory, design, programming, and evaluation of interactive application interfaces. Human capabilities and limitations, interface design and engineering, prototyping and interface construction, interface evaluation, and topics such as data visualization and World Wide Web. Course is built around a group project.
+
+prereq: 4041 or instr consent
+
+Units: 3.00
+
+
+CSCI 5127W: Embodied Computing: Design & Prototyping
+In this course, you will learn and apply the principles of embodied computing to human-centered challenges. Through a semester-long team project, you will learn and demonstrate mastery of human-centered embodied computing through two phases: (1) investigating human needs and current embodied practices and (2) rapidly prototyping and iterating embodied computing solutions. One of the ways you will demonstrate this mastery is through the collaborative creation of a written document and project capstone video describing your process and prototype.
+
+prereq: CSci 4041, upper division or graduate student, or instructor permission; CSci 5115 or equivalent recommended.
+
+Writing Intensive
+Units: 3.00
+
+
+CSCI 5204: Advanced Computer Architecture
+Instruction set architecture, processor microarchitecture, memory, I/O systems. Interactions between computer software and hardware. Methodologies of computer design.
+
+prereq: 4203 or EE 4363
+
+Credit will not be granted if credit has been received for: EE 5364
+Units: 3.00
+
+
+CSCI 5271: Introduction to Computer Security
+Concepts of computer, network, and information security. Risk analysis, authentication, access control, security evaluation, audit trails, cryptography, network/database/application security, viruses, firewalls.
+
+prereq: 4061 or equiv or instr consent
+
+Units: 3.00
+
+
+CSCI 5304: Computational Aspects of Matrix Theory
+Perturbation theory for linear systems and eigenvalue problems. Direct/iterative solution of large linear systems. Matrix factorizations. Computation of eigenvalues/eigenvectors. Singular value decomposition. LAPACK/other software packages. Introduction to sparse matrix methods.
+
+prereq: 2031 or 2033 or instr consent
+
+Units: 3.00
+
+
+CSCI 5421: Advanced Algorithms and Data Structures
+Fundamental paradigms of algorithm and data structure design. Divide-and-conquer, dynamic programming, greedy method, graph algorithms, amortization, priority queues and variants, search structures, disjoint-set structures. Theoretical underpinnings. Examples from various problem domains.
+
+prereq: 4041 or instr consent
+
+Units: 3.00
+
+
+CSCI 5465: Introduction to Computing for Biologists
+This course is designed for graduate students in biology or other related sciences that wish to learn fundamental computing skills that will enable them to develop their own computational approaches for meaningful interpretation of scientific data. Students will complete programming assignments in Python and R. No previous programming knowledge assumed.
+
+Prereq: Introductory biology course; non-CSE students only.
+
+Credit will not be granted if credit has been received for: CSCI 3003
+Units: 3.00
+
+
+CSCI 5481: Computational Techniques for Genomics
+Techniques to analyze biological data generated by genome sequencing, proteomics, cell-wide measurements of gene expression changes. Algorithms for single/multiple sequence alignments/assembly. Search algorithms for sequence databases, phylogenetic tree construction algorithms. Algorithms for gene/promoter and protein structure prediction. Data mining for micro array expression analysis. Reverse engineering of regulatory networks.
+
+prereq: 4041 or instr consent
+
+Units: 3.00
+
+
+CSCI 5511: Artificial Intelligence I
+Introduction to AI. Problem solving, search, inference techniques. Logic/theorem proving. Knowledge representation, rules, frames, semantic networks. Planning/scheduling. Lisp programming language.
+
+prereq: [2041 or instr consent], grad student
+
+Credit will not be granted if credit has been received for: CSCI 4511W
+Units: 3.00
+
+
+CSCI 5512: Artificial Intelligence II
+Uncertainty in artificial intelligence. Probability as a model of uncertainty, methods for reasoning/learning under uncertainty, utility theory, decision-theoretic methods.
+
+prereq: [STAT 3021, 4041] or instr consent
+
+Credit will not be granted if credit has been received for: CSCI 5512W
+Units: 3.00
+
+
+CSCI 5521: Introduction to Machine Learning
+Problems of pattern recognition, feature selection, measurement techniques. Statistical decision theory, nonstatistical techniques. Automatic feature selection/data clustering. Syntactic pattern recognition. Mathematical pattern recognition/artificial intelligence.
+
+prereq: [[2031 or 2033], STAT 3021] or instr consent
+
+Units: 3.00
+
+
+CSCI 5523: Introduction to Data Mining
+Data pre-processing techniques, data types, similarity measures, data visualization/exploration. Predictive models (e.g., decision trees, SVM, Bayes, K-nearest neighbors, bagging, boosting). Model evaluation techniques, Clustering (hierarchical, partitional, density-based), association analysis, anomaly detection. Case studies from areas such as earth science, the Web, network intrusion, and genomics. Hands-on projects.
+
+prereq: 4041 or equiv or instr consent
+
+Units: 3.00
+
+
+CSCI 5525: Machine Learning
+Models of learning. Supervised algorithms such as perceptrons, logistic regression, and large margin methods (SVMs, boosting). Hypothesis evaluation. Learning theory. Online algorithms such as winnow and weighted majority. Unsupervised algorithms, dimensionality reduction, spectral methods. Graphical models.
+
+prereq: Grad student or instr consent
+
+Units: 3.00
+
+
+CSCI 5551: Introduction to Intelligent Robotic Systems
+Transformations, kinematics/inverse kinematics, dynamics, control. Sensing (robot vision, force control, tactile sensing), applications of sensor-based robot control, robot programming, mobile robotics, microrobotics.
+
+prereq: 2031 or 2033 or instr consent
+
+Units: 3.00
+
+
+CSCI 5561: Computer Vision
+Issues in perspective transformations, edge detection, image filtering, image segmentation, and feature tracking. Complex problems in shape recovery, stereo, active vision, autonomous navigation, shadows, and physics-based vision. Applications.
+
+prereq: 5511 or instr consent
+
+Units: 3.00
+
+
+CSCI 5611: Animation & Planning in Games
+Theory behind algorithms used to bring virtual worlds to life. Computer animation topics. Real-time, interactive techniques used in modern games. Physically-based animation, motion planning, character animation, simulation in virtual worlds.
+
+prereq: 4041 or 4611 or instr consent
+
+Units: 3.00
+
+
+CSCI 5619: Virtual Reality and 3D Interaction
+Introduction to software, technology/applications in virtual/augmented reality, 3D user interaction. Overview of current research. Hands-on projects.
+
+prereq: 4611 or 5607 or 5115 or equiv or instr consent
+
+Units: 3.00
+
+
+CSCI 5707: Principles of Database Systems
+Concepts, database architecture, alternative conceptual data models, foundations of data manipulation/analysis, logical data models, database designs, models of database security/integrity, current trends.
+
+prereq: [4041 or instr consent], grad student
+
+Credit will not be granted if credit has been received for: CSCI 4707INET 4707
+Units: 3.00
+
+
+CSCI 5715: From GPS, Google Maps, and Uber to Spatial Data Science
+Spatial databases and querying, spatial big data mining, spatial data-structures and algorithms, positioning, earth observation, cartography, and geo-visulization. Trends such as spatio-temporal, and geospatial cloud analytics, etc.
+
+prereq: Familiarity with Java, C++, or Python
+
+Units: 3.00
+
+
+CSCI 5801: Software Engineering I
+Advanced introduction to software engineering. Software life cycle, development models, software requirements analysis, software design, coding, maintenance.
+
+prereq: 2041 or instr consent
+
+Units: 3.00
+
+
+CSCI 5980: Special Topics in Computer Science
+Lectures and informal discussions on current topics in computer science.
+
+prereq: instr consent; may be repeated for cr
+
+Topics Course
+Units: 1.00 – 3.00
+
+Topics
+Think Deep Learning
+Hyperconverged IT Infrastructure
+
+CSCI 5991: Independent Study
+Independent study arranged with CS faculty member.
+
+prereq: instr consent; may be repeated for cr
+
+Units: 1.00 – 3.00
+
+
+CSCI 5994: Directed Research
+Directed research arranged with faculty member.
+
+prereq: instr consent; may be repeated for cr
+
+Units: 1.00 – 3.00
+
+
+CSCI 5996: Curricular Practical Training
+Industrial work assignment involving advanced computer technology. Reviewed by faculty member. Grade based on final report covering work assignment.
+
+prereq: [CSci or CompE] major, instr consent
+
+Units: 1.00
+
+
+CSCI 5997: Curricular Practical Training Extension
+Extension of an industrial work assignment involving advanced computer technology. Grade based on final report covering work assignment.
+
+prereq: [CSci or CompE] major, instr consent
+
+Units: 1.00
