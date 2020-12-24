@@ -443,11 +443,12 @@ Lectures and informal discussions on current topics in computer science.
 prereq: instr consent; may be repeated for cr
 
 Topics Course
-Units: 1.00 – 3.00
-
 Topics
 Think Deep Learning
 Hyperconverged IT Infrastructure
+
+Units: 1.00 – 3.00
+
 
 CSCI 5991: Independent Study
 Independent study arranged with CS faculty member.
