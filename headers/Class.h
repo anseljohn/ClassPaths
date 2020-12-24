@@ -5,9 +5,10 @@ using namespace std;
 
 class Class {
   public:
-    Class(string pSubj, int pNum, string pDesc, vector<string> pReqs, int pCredits);
+    Class(string pSubj, int pNum, string pTitle, string pDesc, vector<string> pReqs, int pCredits);
     string subj;
     int num;
+    string title;
     string desc;
     vector<string> reqs;
     int credits;

@@ -2,10 +2,11 @@
 #include "../headers/Class.h"
 using namespace std;
 
-Class::Class(string pSubj, int pNum, string pDesc, vector<string> pReqs, int pCredits) {
+Class::Class(string pSubj, int pNum, string pTitle, string pDesc, vector<string> pReqs, int pCredits) {
     subj = pSubj;
-    desc = pDesc;
     num = pNum;
+    title = pTitle;
+    desc = pDesc;
     reqs = pReqs;
     credits = pCredits;
 }

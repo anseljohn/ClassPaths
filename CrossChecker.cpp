@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <sstream>
 #include <vector>
 #include "classes/Class.cpp"
 using namespace std;
@@ -11,16 +12,19 @@ int main() {
   string line;
   if (classesIn.is_open()) {
     bool newClass = true;
+    string cls = "";
     while (getline(classesIn, line)) {
-      if (newClass) {
-        string subj = line.substr(0, line.find(' '));
-        int num = stoi(line.substr(line.find(' '), line.find(':') - 1));
-        
-        newClass = false;
+      if (line.find("Unit") != string::npos) {
+        cls += line;
+      } else {
+        cls += line + "\n";
       }
-      if (line.find("Unit") != std::string::npos) {
 
+      stringstream strm(cls);
+      while (getline(strm, line)) {
       }
+      cout << cls;
+      cls = "";
     }
   } else {
     cout << "Unable to open file.\n";
