@@ -4,6 +4,7 @@
 #include <vector>
 #include "classes/Class.cpp"
 #include "classes/CreditRange.cpp"
+#include "classes/Requirement.cpp"
 using namespace std;
 
 void createClass(string classStr, vector<Class>& classes);
@@ -57,7 +58,9 @@ void createClass(string classStr, vector<Class>& classes) {
           desc += line;
         } else {
           // cout << line.substr(line.find("prereq") + 7, line.find(" or ") - 7) << endl;
-          for (int i = 0; i < line.size(); i++) {
+          string cls = "";
+          int spacesPassed = 0;
+          for (int i = 6; i < line.size(); i++) {
             
           }
         }
