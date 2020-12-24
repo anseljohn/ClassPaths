@@ -35,7 +35,6 @@ int main() {
 }
 
 void createClass(string classStr, vector<Class>& classes) {
-  string subj;
   string num;
   string title = "";
   string desc = "";
@@ -49,18 +48,18 @@ void createClass(string classStr, vector<Class>& classes) {
     if (start) {
       int firstSpc = line.find(' ');
       int colon = line.find(':');
-      subj = line.substr(0, firstSpc);
-      num = line.substr(firstSpc + 1, colon - 5);
+      num = line.substr(0, colon);
       title = line.substr(colon + 2, line.size() - 1);
-
-      cout << subj << " " << num << ": " << title << endl;
       start = false;
     } else {
       if (line.find("Unit") == string::npos) {
         if (line.find("prereq") == string::npos) {
           desc += line;
         } else {
-          
+          // cout << line.substr(line.find("prereq") + 7, line.find(" or ") - 7) << endl;
+          for (int i = 0; i < line.size(); i++) {
+            
+          }
         }
       } else {
         
@@ -68,5 +67,5 @@ void createClass(string classStr, vector<Class>& classes) {
     }
   }
 
-  // classes.push_back(Class(subj, num, title, desc, reqs, credits));
+  // classes.push_back(Class(num, title, desc, reqs, credits));
 }

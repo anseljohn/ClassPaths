@@ -6,12 +6,13 @@ using namespace std;
 
 class Class {
   public:
-    Class(string pSubj, string pNum, string pTitle, string pDesc, vector<string> pReqs, CreditRange pCredits);
+    Class(string pNum, string pTitle, string pDesc, Requirements pReqs, CreditRange pCredits);
     string subj;
     string num;
     string title;
     string desc;
-    vector<string> reqs;
+    Requirements reqs;
     CreditRange credits;
+  private:
 };
 #endif
