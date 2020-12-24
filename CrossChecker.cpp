@@ -3,6 +3,7 @@
 #include <sstream>
 #include <vector>
 #include "classes/Class.cpp"
+#include "classes/CreditRange.cpp"
 using namespace std;
 
 void createClass(string classStr, vector<Class>& classes);
@@ -40,7 +41,7 @@ void createClass(string classStr, vector<Class>& classes) {
   string title = "";
   string desc = "";
   vector<string> reqs;
-  string credits;
+  CreditRange credits;
 
   bool start = true;
   stringstream strm(classStr);
@@ -58,7 +59,7 @@ void createClass(string classStr, vector<Class>& classes) {
         if (line.find("prereq") == string::npos) {
           desc += line;
         } else {
-
+          
         }
       } else {
         
