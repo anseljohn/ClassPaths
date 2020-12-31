@@ -6,6 +6,6 @@ Requirements::Requirements(vector<Requirement> requirements, bool bypassWithInst
         this->bypassWithInstructorConsent = bypassWithInstructorConsent;
 }
 
-void add(Requirement req) {
+void Requirements::add(Requirement req) {
         requirements.push_back(req);
 }
