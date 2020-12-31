@@ -11,10 +11,9 @@ class Requirements {
         bool bypassWithInstructorConsent;
 
         void add(Requirement req);
-        void add(Requirement reqs[]);
 
     private:
 
-}
+};
 
 #endif
