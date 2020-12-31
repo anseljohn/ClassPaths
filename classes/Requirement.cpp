@@ -9,11 +9,3 @@ Requirement::Requirement(ClassName className, bool canBeConcurrent, vector<Class
     this->canBeConcurrent = canBeConcurrent;
     this->substitutes = substitutes;
 }
-
-Requirement::Requirement(ClassName className, bool canBeConcurrent, ClassName& substitutes[]) {
-    this->className = className;
-    this->canBeConcurrent = canBeConcurrent;
-    for (ClassName name : substitutes) {
-        this->substitutes.push_back(name);
-    }
-}

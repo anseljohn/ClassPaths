@@ -6,7 +6,7 @@
 class Requirements {
     public:
         Requirements(vector<Requirement> requirements, bool bypassWithInstructorConsent);
-        Requirements(Requirements& requirements[], bool bypassWithInstructorConsent);
+        Requirements(Requirements requirements[], bool bypassWithInstructorConsent);
         vector<Requirement> requirements;
         bool bypassWithInstructorConsent;
 

@@ -6,7 +6,6 @@
 class Requirement {
     public:
         Requirement(ClassName className, bool canBeConcurrent, vector<ClassName> substitutes);
-        Requirement(ClassName className, bool canBeConcurrent, ClassName substitutes[]);
         ClassName className;
         bool canBeConcurrent;
         vector<ClassName> substitutes;

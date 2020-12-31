@@ -5,10 +5,11 @@ using namespace std;
 
 class ClassName {
     public:
-        ClassName(string subject, int number, string title);
-        ClassName(string subject, int number);
+        ClassName();
+        ClassName(string subject, string number, string title);
+        ClassName(string subject, string number);
         string subject;
-        int number;
+        string number;
         string title;
         
         string get();

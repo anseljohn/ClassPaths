@@ -72,3 +72,7 @@ void createClass(string classStr, vector<Class>& classes) {
 
   // classes.push_back(Class(num, title, desc, reqs, credits));
 }
+
+void arrayToVector(int ) {
+  for (type x : )
+}
