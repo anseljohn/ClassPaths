@@ -3,7 +3,7 @@
 #include <sstream>
 #include <vector>
 #include "classes/Class.cpp"
-#include "classes/CreditRange.cpp"
+#include "classes/Credits.cpp"
 #include "classes/Requirement.cpp"
 using namespace std;
 
@@ -40,7 +40,7 @@ void createClass(string classStr, vector<Class>& classes) {
   string title = "";
   string desc = "";
   vector<string> reqs;
-  CreditRange credits;
+  Credits credits;
 
   bool start = true;
   stringstream strm(classStr);

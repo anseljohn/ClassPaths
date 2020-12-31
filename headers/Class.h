@@ -1,18 +1,16 @@
 #ifndef CLASS_H
 #define CLASS_H
 #include <vector>
-#include "CreditRange.h"
+#include "Credits.h"
 using namespace std;
 
 class Class {
   public:
-    Class(string pNum, string pTitle, string pDesc, Requirements pReqs, CreditRange pCredits);
-    string subj;
-    string num;
-    string title;
+    Class(ClassName className, string desc, Requirements reqs, Credits credits);
+    ClassName className;
     string desc;
     Requirements reqs;
-    CreditRange credits;
+    Credits credits;
   private:
 };
 #endif
