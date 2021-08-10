@@ -27,4 +27,5 @@ string ClassName::get() {
     if (!title.empty()) {
         out += ": " + title;
     }
+    return out;
 }

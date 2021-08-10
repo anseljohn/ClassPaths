@@ -1,7 +1,9 @@
 #ifndef CLASS_H
 #define CLASS_H
 #include <vector>
-#include "Credits.h"
+#include "../classes/ClassName.cpp"
+#include "../classes/Requirements.cpp"
+#include "../classes/Credits.cpp"
 using namespace std;
 
 class Class {

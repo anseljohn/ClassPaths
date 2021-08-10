@@ -1,7 +1,7 @@
-#include <vector>
-#include "../classes/ClassName.cpp"
 #ifndef REQUIREMENT_H
 #define REQUIREMENT_H
+#include <vector>
+#include "../classes/ClassName.cpp"
 
 class Requirement {
     public:
